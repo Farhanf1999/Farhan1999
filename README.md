@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farhan1999
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
